@@ -1,6 +1,6 @@
 {
-    "name": "stripe_test",
-    "short_name": "stripe_test",
+    "name": "stripedemo",
+    "short_name": "stripedemo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-# stripe_test
+# stripedemo
 
 A new Flutter project.
 
